@@ -10,7 +10,7 @@ import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeSuite;
 import org.testng.annotations.AfterSuite;
 
-public class NewTest {
+public class LearningGit {
   @Test
   public void testCase1() {
 	  System.out.println("welcome 2021");
